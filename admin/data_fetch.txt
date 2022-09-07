@@ -1,0 +1,1 @@
+SELECT * FROM `attendance` WHERE employee_id=99 ORDER BY time_in ASC LIMIT 1  
